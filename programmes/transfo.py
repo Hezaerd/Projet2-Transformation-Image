@@ -5,7 +5,7 @@ from PIL import Image, ImageTk
 
 # Création de la fenêtre
 fen = tk.Tk()
-fen.title("Transformation Image - JeanBaptiste Rouanet & Kessler")
+fen.title("Transformation Image - JeanBaptiste Rouanet Kessler JeanneLouise & Charlesia")
 fen.geometry("1080x720")
 fen.resizable(width=False, height=False)
 
