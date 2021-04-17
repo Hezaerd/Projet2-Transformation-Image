@@ -12,15 +12,15 @@
 
 ## Contribuation dans le groupe :
 
-- Dylan Jean-Baptiste : 
+- **Dylan Jean-Baptiste** : 
   - A travaillé sur la transformation en double rotation
   - A travaillé sur la transformation en X
 
-- Dylan Kesler :
+- **Dylan Kesler** :
   - A travaillé sur la transformation en double rotation
   - A travaillé sur la transformation en X
 
-- Swann Rouanet :
+- **Swann Rouanet** :
   - A travaillé sur l'interface graphique
   - A travaillé sur le github
   
