@@ -22,11 +22,11 @@
   - A travaillé sur l'interface graphique
   - A travaillé sur le github
   
- - **Lucas Jeane-Louise** :
+ - **Lucas Jeanne-Louise** :
   - A travaillé sur la transformation en double rotation
 
 
-- ** Dan ** :
+- **Dan Charlesia** :
   - A travaillé sur la transformation en double rotation
 
 ![image projet](image.jpg)
