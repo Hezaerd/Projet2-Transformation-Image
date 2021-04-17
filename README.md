@@ -14,11 +14,11 @@
 
 - Dylan Jean-Baptiste : 
   - A travaillé sur la transformation en double rotation
-  - A travaillé sur la transformation en croix
+  - A travaillé sur la transformation en X
 
 - Dylan Kesler :
   - A travaillé sur la transformation en double rotation
-  - A travaillé sur la transformation en croix
+  - A travaillé sur la transformation en X
 
 - Swann Rouanet :
   - A travaillé sur l'interface graphique
