@@ -25,7 +25,6 @@
  - **Lucas Jeanne-Louise** :
    - A travaillé sur la transformation en double rotation
 
-
 - **Dan Charlesia** :
   - A travaillé sur la transformation en double rotation
 
