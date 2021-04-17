@@ -13,17 +13,20 @@
 ## Contribuation dans le groupe :
 
 - **Dylan Jean-Baptiste** : 
-  - A travaillé sur la transformation en double rotation
   - A travaillé sur la transformation en X
 
 - **Dylan Kesler** :
-  - A travaillé sur la transformation en double rotation
   - A travaillé sur la transformation en X
 
 - **Swann Rouanet** :
   - A travaillé sur l'interface graphique
   - A travaillé sur le github
   
+ - **Lucas Jeane-Louise** :
+  - A travaillé sur la transformation en double rotation
 
+
+- ** Dan ** :
+  - A travaillé sur la transformation en double rotation
 
 ![image projet](image.jpg)
