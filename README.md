@@ -10,7 +10,7 @@
 6. Attendre patiament que la transformation s'efféctue.
 
 
-## Contribuation dans le groupe :
+## Contribution dans le groupe :
 
 - **Dylan Jean-Baptiste** : 
   - A travaillé sur la transformation en **X**
