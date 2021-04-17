@@ -23,7 +23,7 @@
   - A travaillé sur le github
   
  - **Lucas Jeanne-Louise** :
-  - A travaillé sur la transformation en double rotation
+   - A travaillé sur la transformation en double rotation
 
 
 - **Dan Charlesia** :
