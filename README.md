@@ -8,3 +8,9 @@
 4. Choisir le nombre d'application de la transformation
 5. Cliquer sur le bouton "lancer" en plein milieu
 6. Attendre patiament que la transformation s'efféctue.
+
+
+## Contribuation dans le groupe :
+
+- Dylan Jean-Baptiste : 
+                       - 
