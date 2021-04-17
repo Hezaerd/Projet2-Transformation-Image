@@ -24,3 +24,6 @@
   - A travaillé sur l'interface graphique
   - A travaillé sur le github
   
+
+
+![image projet](image.jpg)
