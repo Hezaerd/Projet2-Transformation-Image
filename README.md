@@ -1,6 +1,6 @@
-# Projet 2 : Transformation d'Image
+# Projet 2 : Transformation d'Image 
 
-## Fonctionement du programme :
+## Fonctionement du programme : 
 
 1. Ouvrir le document *transfo.py*
 2. Cliquer sur le bouton *ouvrir* à sur la gauche de la fenêtre
