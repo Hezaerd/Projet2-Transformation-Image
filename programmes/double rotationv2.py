@@ -1,4 +1,4 @@
-# -- Dylan Jean-Baptiste & Dylan Kesler & Swann Rouanet -- #
+# -- Dylan Jean-Baptiste & Dylan Kesler & Swann Rouanet & Jeanne-Louise Lucas & Charlesia Dan -- #
 
 # Les librairies qu'on utilise sont : os, system et PIL
 import os, sys
