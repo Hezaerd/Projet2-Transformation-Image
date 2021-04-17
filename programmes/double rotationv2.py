@@ -19,8 +19,8 @@ tableaupix=img.load() # Image originale
 tableaupix2=dup.load() # Copie de l'image
 
 
-
-
+# -- Transformation : Double Rotation -- #
+# A MODIFIER ! : QUE FAIT LA TRANSFORMATION !!! #
 def doublerotation(rotat): # Le nombre de rotation correspond au nombre de ligne ou de colonne soit : ppcm(largeur,hauteur).
     for a in range(rotat): # Permet de trouver la periode.
         for j in range(colonne):
@@ -41,18 +41,21 @@ def doublerotation(rotat): # Le nombre de rotation correspond au nombre de ligne
                 tableaupix[i,j]=tableaupix2[i,j] # On copie le tableau de pixels dans celui de depart.
     dup.show() # affiche le résultat finale 
 
+    
+# -- Transformation : Rotation en X  -- #
 # Pour chaque pixel, si son numéro de ligne est pair, on l'augmente de 2, s'il est impair on le diminue de 2.
 # Même chose pour la colonne. Contrainte de taille d'image : hauteur et largeur paires. Période : ppcm(larg/2, haut/2)
+# Il faut effectuer un total de 32 transformations d'affilé pour revenir à l'image originale.
 def rotX(rotat):# ppcm(ligne//2,colonne//2), l'image doit avoir un nombre de ligne et de colonne pair
     for a in range(rotat):
         for j in range(colonne):
             for i in range(ligne):
-                tableaupix2[i,j]=(255, 255, 255)#je met mon image a blanc
+                tableaupix2[i,j]=(255, 255, 255) # On transforme l'image en un rectangle blanc.
         for j in range(colonne):
             for i in range(ligne):
                 if i%2 == 0:
                     if j%2 ==0:
-                        tableaupix2[(i+2)%ligne,(j+2)%colonne]=tableaupix[i,j]# on le place a i+2%ligne et j+2%colonne ,ce qui permet de rester dans l'encadrement
+                        tableaupix2[(i+2)%ligne,(j+2)%colonne]=tableaupix[i,j] # On le place a i+2%ligne et j+2%colonne ,ce qui permet de rester dans l'encadrement
                     else:
                         tableaupix2[(i+2)%ligne,(j-2)%colonne]=tableaupix[i,j]
                 else:
@@ -66,5 +69,3 @@ def rotX(rotat):# ppcm(ligne//2,colonne//2), l'image doit avoir un nombre de lig
         if a%5==0:
             dup.show()
     dup.show()
-
-rotX(32)
