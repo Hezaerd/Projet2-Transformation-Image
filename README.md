@@ -13,12 +13,12 @@
 ## Contribuation dans le groupe :
 
 - Dylan Jean-Baptiste : 
-                       - A travaillé sur la transformation en double rotation
-                       - A travaillé sur la transformation en croix
+  - A travaillé sur la transformation en double rotation
+  - A travaillé sur la transformation en croix
 
 - Dylan Kesler :
-                       - A travaillé sur la transformation en double rotation
-                       - A travaillé sur la transformation en croix
+- A travaillé sur la transformation en double rotation
+- A travaillé sur la transformation en croix
 
 - Swann Rouanet :
                        - A travaillé sur l'interface graphique
