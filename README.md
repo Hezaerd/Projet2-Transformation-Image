@@ -14,6 +14,7 @@
 
 - **Dylan Jean-Baptiste** : 
   - A travaillé sur la transformation en **X**
+  - Commentaire des transformations
 
 - **Dylan Kesler** :
   - A travaillé sur la transformation en **X**
