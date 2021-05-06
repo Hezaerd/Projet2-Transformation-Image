@@ -8,7 +8,7 @@
 4. Choisir le nombre d'application de la transformation
 5. Cliquer sur le bouton *valider* en plein milieu
 6. Attendre patiament que la transformation s'efféctue.
-7. Si vous voulez voir la transformation en temps *réel* répétez la procédure mais appuyez sur *pas* au mieu de *valider*
+7. Si vous voulez voir la transformation en temps ***réel*** répétez la procédure mais appuyez sur ***pas*** au mieu de ***valider***
 
 
 ## Contribution dans le groupe :
