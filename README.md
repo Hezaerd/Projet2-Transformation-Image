@@ -6,8 +6,9 @@
 2. Cliquer sur le bouton *ouvrir* à sur la gauche de la fenêtre
 3. Choisir le type de transformation souhaité dans le menu déroulant en haut de la fenêtre
 4. Choisir le nombre d'application de la transformation
-5. Cliquer sur le bouton *lancer* en plein milieu
+5. Cliquer sur le bouton *valider* en plein milieu
 6. Attendre patiament que la transformation s'efféctue.
+7. Si vous voulez voir la transformation en temps *réel* répétez la procédure mais appuyez sur *pas* au mieu de *valider*
 
 
 ## Contribution dans le groupe :
