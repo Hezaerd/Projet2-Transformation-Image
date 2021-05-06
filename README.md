@@ -18,7 +18,7 @@
   - A travaillé sur l'interface graphique
   - A travaillé sur  les commentaire du code
 
-- **Dylan Kesler** :
+- **Dylan Kessler** :
   - A travaillé sur la transformation en **X**
   - A travaillé sur les commentaire du code
 
