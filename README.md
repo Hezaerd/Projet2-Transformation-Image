@@ -14,7 +14,7 @@
 ## Contribution dans le groupe :
 
 - **Dylan Jean-Baptiste** : 
-  - A travaillé sur la transformation en **X**
+  - A travaillé sur la transformation en **X** 
   - A travaillé sur l'interface graphique
   - A travaillé sur  les commentaire du code
 
