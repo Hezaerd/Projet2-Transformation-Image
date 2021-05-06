@@ -1,4 +1,4 @@
-# Projet 2 : Transformation d'Image 
+# Projet 2 : Transformation d'Images
 
 ## Fonctionement du programme : 
 
