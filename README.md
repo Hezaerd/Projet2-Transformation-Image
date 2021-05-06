@@ -14,9 +14,12 @@
 
 - **Dylan Jean-Baptiste** : 
   - A travaillé sur la transformation en **X**
+  - A travaillé sur l'interface graphique
+  - A travaillé sur  les commentaire du code
 
 - **Dylan Kesler** :
   - A travaillé sur la transformation en **X**
+  - A travaillé sur les commentaire du code
 
 - **Swann Rouanet** :
   - A travaillé sur l'interface graphique
