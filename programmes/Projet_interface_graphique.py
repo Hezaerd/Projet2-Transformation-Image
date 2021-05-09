@@ -15,9 +15,7 @@ fen.resizable(width=False, height=False) # On empèche de redimentioner la fenê
 
 # -- Transformation : Double Rotation -- #
 # Déplacement d'un pixel de l'image sur l'axe des x et des y simultanément.
-
 # Revient à décaler l'image d'un pixel vers le coin inférieur droit.
-
 # Le coin inférieur droit est recopié au coin supérieur gauche. Pas de contrainte de taille d'image. Période: ppcm(largeur,hauteur).
 
 def doublerotation(rotat):          # Le nombre de rotation correspond au nombre de ligne ou de colonne soit : ppcm(largeur,hauteur).
@@ -106,10 +104,10 @@ def recuptext(): # Fonction pour recuperer les informations necessaire pour le b
     content = nombreTransfo.get()   #Recupere le nombre de transformation choisi
     transfochoisi = v.get()     #Recupere la transformation choisi
     if transfochoisi == 'Double rotation': # Si double rotation est choisi
-        showwarning('Attention',' Pour revenir a l image initial la periode  doit correspondre a n*ppcm(largeur,hauteur)') #Ligne d'alerte pour double rotation
+        showwarning('Attention',' Pour revenir à l image initial la periode  doit correspondre à n*ppcm(largeur,hauteur)') #Ligne d'alerte pour double rotation
         doublerotation(int(content))    #Execution de la fonction double rotation
     elif transfochoisi == 'Rotation en X': # Si rotation en x est choisi
-        showwarning('Attention','Pour revenir a l image initial la periode  doit correspondre a n*ppcm(largeur/2,hauteur/2)') # Ligne d'alerte pour la fonction rotX
+        showwarning('Attention','Pour revenir à l image initial la periode  doit correspondre à n*ppcm(largeur/2,hauteur/2)') # Ligne d'alerte pour la fonction rotX
         rotX(int(content)) #Exécution de la fonction rotX
 
 def recuptext2(): # Fonction pour recuperer les informations necessaire pour le bouton pas
@@ -121,7 +119,7 @@ def recuptext2(): # Fonction pour recuperer les informations necessaire pour le 
     ppcm2 = (ligne//2 * colonne//2)/gcd(ligne//2,colonne//2) #Calcul du ppcm pour rotX
 
     if transfochoisi == 'Double rotation':  # Si double rotation est choisi
-        showwarning('Attention','Si vous voulez arreter, mettez le nombre de transformations a 0 et reappuyer sur PAS') #Ligne d'alerte pour double rotation
+        showwarning('Attention','Si vous voulez arreter, mettez le nombre de transformations à 0 et reappuyer sur PAS') #Ligne d'alerte pour double rotation
         while(compteur<int(ppcm)):
             doublerotation(int(content))        #Execution de la fonction double rotation
             fen.update()                        #Rafraichissement de la page
