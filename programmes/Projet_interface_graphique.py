@@ -7,7 +7,7 @@ from PIL import Image, ImageTk
 from math import *
 
 
-# Création de la fenêtre 
+# Création de la fenêtre
 fen = tk.Tk()
 fen.title("Transformation Image") # On change le nom de la fenêtre.
 fen.geometry("1080x720") # On change les dimentions de la fenêtre.
